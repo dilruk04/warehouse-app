@@ -1,0 +1,29 @@
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\bin\Debug\WareHouseApp.exe.config
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\bin\Debug\WareHouseApp.exe
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\bin\Debug\WareHouseApp.pdb
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.Form1.resources
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.Properties.Resources.resources
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.csproj.GenerateResource.cache
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.csproj.CoreCompileInputs.cache
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.exe
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.pdb
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\bin\Debug\WarehouseDB.mdf
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\bin\Debug\WarehouseDB_log.ldf
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.csproj.AssemblyReference.cache
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.Dashboard.resources
+D:\NSBM\TA&Instructor\C#\Lecs\Example_Work\WareHouseApp\WareHouseApp\obj\Debug\WareHouseApp.MainDash.resources
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.csproj.AssemblyReference.cache
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.DashBoard.resources
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.Form1.resources
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.MainDash.resources
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.Properties.Resources.resources
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.Register.resources
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.csproj.GenerateResource.cache
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.csproj.CoreCompileInputs.cache
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\bin\Debug\WarehouseDB.mdf
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\bin\Debug\WarehouseDB_log.ldf
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\bin\Debug\WareHouseApp.exe.config
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\bin\Debug\WareHouseApp.exe
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\bin\Debug\WareHouseApp.pdb
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.exe
+E:\Assignments\13. June 2025\CS107.3 Object Oriented Programming with C# (1)\WareHouseApp - repeat coursework\WareHouseApp - repeat coursework\WareHouseApp\obj\Debug\WareHouseApp.pdb
